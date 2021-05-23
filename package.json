@@ -37,10 +37,5 @@
         "lint-staged": "^10.5.4",
         "markdownlint-cli": "^0.27.1",
         "prettier": "^2.2.1"
-    },
-    "config": {
-        "commitizen": {
-            "path": "./node_modules/cz-conventional-changelog"
-        }
     }
 }
